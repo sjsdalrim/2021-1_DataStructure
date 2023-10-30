@@ -1,4 +1,4 @@
-# CAU_DataStructure
+# DataStructure
 
 Chung-Ang university / grade : 2 / semester : 1
 
